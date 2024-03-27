@@ -9,7 +9,7 @@ git clone https://github.com/GHMan2021/globalsqa.git
 ```
 
 2. Перейти в директорию проекта
-3. 3. Создать вируальное окружение
+3. Создать вируальное окружение
 
 ```bash
 python -m venv venv
