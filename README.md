@@ -5,7 +5,7 @@
 1. Склонировать репозиторий
 
 ```bash
-git clone https://github.com/GHMan2021/globalsqa.git
+git clone https://github.com/sofiaTuv/SSWorkshop.git
 ```
 
 2. Перейти в директорию проекта
